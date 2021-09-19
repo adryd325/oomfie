@@ -1,5 +1,8 @@
-earlyoom - The Early OOM Daemon
-===============================
+oomfie - The Early OOM Daemon
+=============================
+
+<img src="https://cdn.discordapp.com/attachments/654538335582421003/889035176028536862/tenor.gif" alt="oomfie - The Early OOM Daemon">
+I am incredibly sorry. My humor is very bad. I saw another repo named oomie but I needed to push the joke slightly further.
 
 [![CI](https://github.com/rfjakob/earlyoom/actions/workflows/ci.yml/badge.svg)](https://github.com/rfjakob/earlyoom/actions/workflows/ci.yml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
